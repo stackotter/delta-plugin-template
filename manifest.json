@@ -1,0 +1,7 @@
+{
+  "identifier": "com.example.HelloWorldPlugin",
+  "name": "HelloWorldPlugin",
+  "description": "A simple example plugin for Delta Client",
+  "version": "0.1.0",
+  "target": "HelloWorldPlugin"
+}
