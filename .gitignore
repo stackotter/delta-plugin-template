@@ -6,4 +6,4 @@ xcuserdata/
 DerivedData/
 /.swiftpm
 /delta-client
-/*.deltaplugin
+/build

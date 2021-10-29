@@ -15,7 +15,7 @@ let package = Package(
     .target(
       name: "HelloWorldPlugin",
       dependencies: [
-        .product(name: "DeltaCore", package: "DeltaClient")
+        .product(name: "DynamicShim", package: "DeltaClient")
       ]),
   ]
 )
