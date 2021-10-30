@@ -2,6 +2,8 @@
 
 This repository is a template for [Delta Client](https://github.com/stackotter/delta-client) plugins.
 
+To create a plugin, create a repo from this template repo and then replace all occurences of `HelloWorldPlugin` with the name of your plugin (should be a valid Swift type name). You can set a custom display name in `manifest.json` (the `name` field). The `target` field in `manifest`.json is the name of your plugin's SwiftPM target (in this template it's `HelloWorldPlugin`. Make sure to change the identifier in `manifest.json` to something unique as well.
+
 ## Building
 
 ### Prerequisites
