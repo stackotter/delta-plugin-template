@@ -9,6 +9,7 @@ To create a plugin, create a repo from this template repo and then replace all o
 ### Prerequisites
 
 - Xcode 13 (or later)
+- [swift-bundler](https://github.com/stackotter/swift-bundler)
 - [jq](https://stedolan.github.io/jq/) (install with [homebrew](https://brew.sh): `brew install jq`)
 
 ### Setup

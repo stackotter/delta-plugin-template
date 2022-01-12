@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/Kitura/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "dd924c3bc2c1c144c42b8dda3896f1a03115ded4",
+          "version": "2.0.2"
+        }
+      },
+      {
         "package": "DeltaLogger",
         "repositoryURL": "https://github.com/stackotter/delta-logger",
         "state": {
@@ -29,6 +38,15 @@
         }
       },
       {
+        "package": "JJLISO8601DateFormatter",
+        "repositoryURL": "https://github.com/michaeleisel/JJLISO8601DateFormatter",
+        "state": {
+          "branch": null,
+          "revision": "99fadf2e6425a0f827b1b485ea60bc2b7ecdd22c",
+          "version": "0.1.4"
+        }
+      },
+      {
         "package": "NioDNS",
         "repositoryURL": "https://github.com/OpenKitten/NioDNS",
         "state": {
@@ -42,8 +60,8 @@
         "repositoryURL": "https://github.com/apple/swift-argument-parser",
         "state": {
           "branch": null,
-          "revision": "d2930e8fcf9c33162b9fcc1d522bc975e2d4179b",
-          "version": "1.0.1"
+          "revision": "6b2aa2748a7881eebb9f84fb10c01293e15b52ca",
+          "version": "0.5.0"
         }
       },
       {
@@ -101,12 +119,39 @@
         }
       },
       {
+        "package": "SwordRPC",
+        "repositoryURL": "https://github.com/PKBeam/SwordRPC",
+        "state": {
+          "branch": null,
+          "revision": "f9831261fcbe6a17243f8839921fb7820e99fa6e",
+          "version": null
+        }
+      },
+      {
         "package": "ZIPFoundation",
         "repositoryURL": "https://github.com/weichsel/ZIPFoundation.git",
         "state": {
           "branch": null,
           "revision": "cf10bbff6ac3b873e97b36b9784c79866a051a8e",
           "version": "0.9.12"
+        }
+      },
+      {
+        "package": "ZippyJSON",
+        "repositoryURL": "https://github.com/michaeleisel/ZippyJSON",
+        "state": {
+          "branch": null,
+          "revision": "1ab389998592d038a60a3ca71aa7554d0e84ab4a",
+          "version": "1.2.4"
+        }
+      },
+      {
+        "package": "ZippyJSONCFamily",
+        "repositoryURL": "https://github.com/michaeleisel/ZippyJSONCFamily",
+        "state": {
+          "branch": null,
+          "revision": "c55123b23f0faa898b22bf1b967e72a2df51fdb4",
+          "version": "1.2.4"
         }
       }
     ]
