@@ -7,3 +7,4 @@ DerivedData/
 /.swiftpm
 /delta-client
 /build
+/Package.resolved
